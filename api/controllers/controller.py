@@ -1,9 +1,9 @@
 from fastapi import APIRouter
 
-from api import PREFIX
+from api import settings
 
 
-api_router = APIRouter(prefix=PREFIX)
+api_router = APIRouter(prefix=settings.prefix)
 
 
 @api_router.get("/", response_model=str)

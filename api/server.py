@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 
 from api.controllers.controller import api_router
-from . import settings, VERSION
+from . import settings
 
 
 def create_api() -> FastAPI:
@@ -9,7 +9,7 @@ def create_api() -> FastAPI:
 
     app = FastAPI(
         title=settings.api_name,
-        version=VERSION,
+        version=settings.version,
     )
 
     app.include_router(api_router)

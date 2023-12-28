@@ -1,2 +1,4 @@
 base:
-  api_name: "autos_check"
+  version: "1.0.0"
+  api_name: "Révision véhicules"
+  prefix: "/api/v1"

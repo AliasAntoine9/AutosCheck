@@ -1,2 +1,2 @@
-# FastAPIServer
-Implement new FastAPI server for training
+# AutosCheck
+Implement an API to manage cars maintenance.

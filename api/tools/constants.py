@@ -1,18 +1,20 @@
 MAPPING_OPERATIONS = {
+    "dernier releve": None,
     "vidange": [
         "moteur",
         "boite pont"
     ],
-    "cartouche": [
+    "filtres": [
         "huile",
         "air",
-        "carburant"
+        "carburant",
+        "habitacle"
     ],
-    "sondes": [
-        "capteur pmh",
-        "capteur vilebrequin",
-        "capteur temperature d'eau",
-        "capteur temperature d'air"
+    "capteurs": [
+        "pmh",
+        "vilebrequin",
+        "temperature d'eau",
+        "temperature d'air"
     ],
     "freins": [
         "plaquettes avant",
@@ -41,7 +43,7 @@ MAPPING_OPERATIONS = {
         "pompe hydraulique"
     ],
     "parallelisme": [
-        "roulement roues",
+        "roues avant",
         "bras arriere"
     ],
     "roulement roues": [
@@ -56,6 +58,34 @@ MAPPING_OPERATIONS = {
     "climatisation": None,
     "essuies glace": ["avant", "arriere"],
     "batterie": None,
-    "cable accelerateur": None,
-    "pompe lave glace": None
+    "cable d'accelerateur": None,
+    "pompe lave glace": None,
+    "courroie de distribution": None,
+    "regulateur de tension": None,
+    "systeme d'injection": [
+        "injecteurs",
+        "joints des injecteurs",
+        "faisceau electrique",
+        "reparation du faisceau injecteurs",
+        "rampe a carburant"
+    ],
+    "alternateur": [
+        "alternateur",
+        "poulie debrayable"
+    ],
+    "boite de vitesse": None,
+    "pompe d'amorçage carburant": None,
+    "silent bloc": [
+        "moteur avant gauche",
+        "moteur avant droit",
+        "moteur central"
+    ],
+    "joints moteur": [
+        "cache culbuteur",
+        "carter d'huile",
+        "collecteur d'admission",
+        "collecteur d'echapement",
+        "collecteur admission/echapement"
+    ],
+    "carter d'huile": None
 }

@@ -1,1 +1,69 @@
-main_operation;detailed_operation;date;mileage;recommanded_mileage;car
+main_operation;detailed_operation;date;mileage;travelled_distance;recommanded_mileage;more_details;car
+vidange;moteur;24/11/2023;132955;5;7500;;s2000
+vidange;boite pont;01/11/2022;127550;5410;100000;;s2000
+cartouches;huile;24/11/2023;132955;5;7500;;s2000
+cartouches;air;01/11/2022;127550;5410;20000;;s2000
+cartouches;carburant;01/11/2022;127550;5410;40000;;s2000
+freins;plaquettes avant;27/08/2023;132210;750;20000;;s2000
+freins;plaquettes arriere;01/11/2022;127550;5410;45000;;s2000
+freins;disques avant;27/08/2023;132210;750;40000;;s2000
+freins;disques arriere;01/11/2022;127550;5410;90000;;s2000
+courroie d'accessoires;;16/12/2023;132955;5;100000;;s2000
+galet tendeur;;16/12/2023;132955;5;100000;;s2000
+batterie;;15/05/2023;130500;;;;s2000
+vidange;moteur;05/10/2022;348178;8322;10000;;megane
+vidange;boite pont;22/01/2021;332805;23695;60000;;megane
+filtres;huile;05/10/2022;348178;8322;10000;;megane
+filtres;air;17/05/2021;333469;23031;30000;;megane
+filtres;carburant;11/02/2021;332858;23642;60000;;megane
+filtres;habitacle;20/08/2009;182720;173780;40000;;megane
+sondes;capteur pmh;17/06/2021;333900;22600;300000;;megane
+freins;plaquettes avant;03/04/2023;352241;4259;100000;;megane
+freins;segments arriere;28/11/2007;152201;204299;300000;;megane
+freins;disques avant;15/10/2012;235546;120954;100000;;megane
+freins;tambours arriere;26/01/2012;223135;133365;1000000;;megane
+courroie de distribution;;06/10/2022;348200;8300;100000;;megane
+courroie d'accessoire;;24/02/2017;302142;54358;100000;;megane
+galet tendeur;;06/10/2022;348200;8300;100000;;megane
+regulateur de tension;;11/02/2016;291324;65176;;;megane
+bougies prechauffage;;28/03/2021;333333;23167;80000;;megane
+bougies prechauffage;;01/09/2023;354500;2000;80000;;megane
+systeme d'injection;rampe a carburant;06/11/2012;236000;120500;200000;;megane
+systeme d'injection;reparation du faisceau injecteurs;24/03/2016;293324;63176;300000;;megane
+systeme d'injection;reparation du faisceau injecteurs;28/05/2023;353000;3500;300000;;megane
+pompe a eau;;06/10/2022;348200;8300;200000;;megane
+alternateur;poulie debrayable;02/02/2017;302000;54500;150000;;megane
+amortisseurs;avant;27/11/2007;152174;204326;200000;;megane
+amortisseurs;arriere;27/11/2007;152174;204326;200000;;megane
+systeme de direction;cardan;14/05/2021;333432;23068;150000;;megane
+systeme de direction;soufflet cremaillere gauche;13/03/2017;302580;53920;150000;;megane
+systeme de direction;bielettes gauche;16/10/2012;235650;120850;150000;;megane
+systeme de direction;rotule de direction droit;28/07/2014;264500;92000;100000;;megane
+parallelisme;roues avant;31/01/2008;153546;202954;50000;;megane
+roulement roues;avant droit;07/03/2011;206842;149658;150000;;megane
+roulement roues;avant gauche;15/10/2014;269347;87153;150000;;megane
+pneus;avant;11/02/2021;332858;23642;50000;;megane
+pneus;arriere;28/01/2011;287668;68832;50000;;megane
+equilibrage des roues;avant;11/02/2021;332858;23642;50000;;megane
+equilibrage des roues;arriere;25/08/2014;287668;68832;50000;;megane
+demareur;;24/04/2018;310492;46008;200000;;megane
+climatisation;;17/07/2013;245427;111073;;;megane
+essuies glace;avant;20/03/2019;316221;40279;;;megane
+essuies glace;arriere;01/01/2016;290000;66500;;;megane
+batterie;;28/12/2017;308900;47600;;;megane
+embrayage;;25/02/2015;276622;79878;150000;;megane
+cable d'accelerateur;;15/04/2015;278186;78314;200000;;megane
+pompe d'amorçage gazole;;30/06/2015;280407;76093;250000;;megane
+pompe lave glace;;24/02/2017;302142;54358;250000;;megane
+boite de vitesse;;14/05/2021;333432;23068;300000;;megane
+silent bloc;moteur avant droit;28/04/2023;352275;4225;350000;;megane
+silent bloc;moteur avant gauche;28/04/2023;352275;4225;350000;;megane
+silent bloc;moteur central;28/04/2023;352275;4225;350000;;megane
+joints moteur;cache culbuteur;28/04/2023;352275;4225;350000;;megane
+joints moteur;carter d'huile;28/04/2023;352275;4225;350000;;megane
+joints moteur;collecteur admission/echapement;28/04/2023;352275;4225;350000;;megane
+carter d'huile;;28/04/2023;352275;4225;350000;;megane
+batterie;;04/05/2010;193503;;;? 12V  70Ah  640 A;megane
+batterie;;01/11/2012;230000;36497;;Carrefour 12V  70Ah  640 A;megane
+batterie;;28/02/2013;240000;10000;;Renault 12V  65Ah  720 A;megane
+demareur;;23/03/2013;241000;115500;200000;;

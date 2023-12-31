@@ -1,9 +1,9 @@
 main_operation;detailed_operation;date;mileage;travelled_distance;recommanded_mileage;more_details;car
 vidange;moteur;24/11/2023;132955;5;7500;;s2000
 vidange;boite pont;01/11/2022;127550;5410;100000;;s2000
-cartouches;huile;24/11/2023;132955;5;7500;;s2000
-cartouches;air;01/11/2022;127550;5410;20000;;s2000
-cartouches;carburant;01/11/2022;127550;5410;40000;;s2000
+filtres;huile;24/11/2023;132955;5;7500;;s2000
+filtres;air;01/11/2022;127550;5410;20000;;s2000
+filtres;carburant;01/11/2022;127550;5410;40000;;s2000
 freins;plaquettes avant;27/08/2023;132210;750;20000;;s2000
 freins;plaquettes arriere;01/11/2022;127550;5410;45000;;s2000
 freins;disques avant;27/08/2023;132210;750;40000;;s2000
@@ -17,7 +17,7 @@ filtres;huile;05/10/2022;348178;8322;10000;;megane
 filtres;air;17/05/2021;333469;23031;30000;;megane
 filtres;carburant;11/02/2021;332858;23642;60000;;megane
 filtres;habitacle;20/08/2009;182720;173780;40000;;megane
-sondes;capteur pmh;17/06/2021;333900;22600;300000;;megane
+capteurs;pmh;17/06/2021;333900;22600;300000;;megane
 freins;plaquettes avant;03/04/2023;352241;4259;100000;;megane
 freins;segments arriere;28/11/2007;152201;204299;300000;;megane
 freins;disques avant;15/10/2012;235546;120954;100000;;megane
@@ -66,4 +66,4 @@ carter d'huile;;28/04/2023;352275;4225;350000;;megane
 batterie;;04/05/2010;193503;;;? 12V  70Ah  640 A;megane
 batterie;;01/11/2012;230000;36497;;Carrefour 12V  70Ah  640 A;megane
 batterie;;28/02/2013;240000;10000;;Renault 12V  65Ah  720 A;megane
-demareur;;23/03/2013;241000;115500;200000;;
+demareur;;23/03/2013;241000;115500;200000;;megane

@@ -15,5 +15,10 @@ def homepage(request: Request):
 
 
 @api_router.get("/historic", response_class=HTMLResponse)
-def get_historic(request: Request):
-    return fetch_historic(request)
+def get_historic():
+    return fetch_historic()
+
+
+@api_router.get("/last_operations/{car_name}", response_class=HTMLResponse)
+def get_last_operation(car_name: str):
+    return fetch_last_operations(car_name)

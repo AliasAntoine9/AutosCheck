@@ -89,3 +89,14 @@ MAPPING_OPERATIONS = {
     ],
     "carter d'huile": None
 }
+
+MAPPING_COLUMNS_TYPE = {
+    "main_operation": str,
+    "detailed_operation": str,
+    "date": str,
+    "mileage": "Int64",
+    "travelled_distance": "Int64",
+    "still_to_go": "Int64",
+    "recommended_mileage": "Int64",
+    "more_details": str
+}
